@@ -8,7 +8,11 @@
 */
 
 // Add your code right below, good luck!
-
+const F = "Carlos";
+const L = "Stevenson" ;
+const T = 1965;
+const B = 1947;
+console.log("Hello! My name is "+F+L+" and I am "+(T-B)+" years old.");
 
 
 
